@@ -1,0 +1,31 @@
+# venv/
+# .venv/
+# __pycache__/
+# *.pyc
+# .env
+# instance/*.db
+# uploads/images/*
+# uploads/documents/*
+# uploads/reports/*
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+
+# Logs and temporary files
+*.log
+.DS_Store

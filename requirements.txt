@@ -1,0 +1,8 @@
+Flask>=3.0,<4
+pymongo>=4.8,<5
+dnspython>=2.6,<3
+google-genai>=1.30,<2
+python-dotenv>=1.0,<2
+gunicorn>=23,<24
+Pillow>=10,<12
+reportlab>=4,<5
